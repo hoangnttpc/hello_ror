@@ -1,0 +1,34 @@
+vi:
+  base_title: HOANG DQ
+  layouts:
+    footer:
+      about: Về chúng tôi
+      en: English
+      help: Giúp đỡ
+      news: Tin tức
+      vi: Tiếng Việt
+    header:
+      help: Giúp đỡ
+      home: Trang chủ
+      login: Đăng nhập
+      logo_alt: Hoang DQ
+      logout: Đăng xuất
+      profile: Trang cá nhân
+      setting: Thiết lập
+      table: Bảng
+  static_pages:
+    about:
+      detail: Xin chào các bạn, tôi là Hoàng, chủ tịch Hoang DQ Group
+      heading: Chúng tôi là công ty Hoang DQ
+      title: Về chúng tôi
+    help:
+      description: Chúng tôi ở đây là để giải quyết khó khăn cho bạn
+      heading: Khó khăn gì vậy bạn iu <3
+      title: Trang trợ giúp
+    home:
+      hello: Xin chào thế giới
+      ruby: Ngôn ngữ lập trình Ruby
+      title: Xin chào RoR
+    table:
+      heading: Bảng
+      title: Thử bảng
